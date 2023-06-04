@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1685884053 source:c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+	"macierz.h"
+	"graf.h"
+	"tablica.h"
+
+1685881747 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\macierz.h
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	"krawedz.h"
+	"tablica.h"
+	"element.h"
+	"lista2.h"
+	"wierzcholekDijkstry.h"
+	"krawedzBellmana.h"
+
+1685882405 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\graf.h
+	"macierz.h"
+	"krawedz.h"
+	"lista.h"
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1684002206 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\tablica.h
+
+1685740144 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\krawedz.h
+
+1685879393 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\lista.h
+	"lista.h"
+	"wierzcholek.h"
+
+1684750914 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\listaa.h
+
+1683971842 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\wierzcholek.h
+
+1684360419 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\wierzcholekdijkstry.h
+
+1684587955 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\krawedzbellmana.h
+
+1684762200 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\element.h
+
+1684770440 c:\users\asus\desktop\informatyka techniczna sem iv\struktury danych i z£o¯onoŒÆ obliczeniowa\projekt\projekt2\projekt_sdizo\lista2.h
+

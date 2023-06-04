@@ -1,0 +1,61 @@
+/*   cout << "  |";
+
+        for(int i=0; i<rozmiark; i++)
+            cout << "  " << setw(2) << krawedzie[i].przepustowosc << " |";
+
+        cout << endl;
+
+        cout << "---";
+
+        for(int i=0; i<rozmiark*6; i++)
+            cout << "-";
+
+        cout << endl;
+
+
+       // STWORZENIE MACIERZY SASIEDZTWA
+
+       int tablica[rozmiarw][rozmiark];       // dwuwymiarowa miacierz
+
+       for(int i=0; i<rozmiarw; i++)
+        {
+            // Uzupelnienie wszystkich wartosci zerami na poczatku
+
+            for(int j=0; j<rozmiark; j++)
+            {
+                tablica[i][j] = 0;
+            }
+        }
+
+        // Prawidlowe  uzupelnienie
+
+        for(int i=0; i<rozmiarw; i++)
+        {
+            for(int j=0; j<rozmiark; j++)
+            {
+                for(int k=0; k<rozmiark; k++)
+                {
+                    // Sprawdzenie czy element [i][j] jest krawedzia startowa
+                    if(krawedzie[k].poczatek == wierzcholki[i])
+                    {
+                        tablica[i][k] = 1;
+                    }
+
+                    // Sprawdzenie czy element [i][j] jest krawedzia koncowa
+                    if(krawedzie[k].koniec == wierzcholki[i])
+                    {
+                        tablica[i][k] = -1;
+                    }
+                }
+            }
+        }
+
+        for(int i=0; i<rozmiarw; i++)
+        {
+            cout << wierzcholki[i] << " |";
+            for(int j=0; j<rozmiark; j++)
+            {
+                cout << " " << setw(2) << tablica[i][j] << "  |";
+            }
+            cout << endl;
+        }                                                                                  */
